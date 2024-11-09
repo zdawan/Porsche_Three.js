@@ -1,0 +1,20 @@
+<svg width="200" height="250" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background for contrast -->
+  <rect width="100%" height="100%" fill="black"/>
+  
+  <!-- Outer shield in white -->
+  <path d="M100,10 C140,10 160,50 160,100 C160,150 140,230 100,230 C60,230 40,150 40,100 C40,50 60,10 100,10 Z" fill="none" stroke="white" stroke-width="5"/>
+  
+  <!-- Inner minimal design -->
+  <rect x="55" y="50" width="90" height="15" fill="white"/>
+  <rect x="55" y="75" width="90" height="15" fill="white"/>
+  
+  <!-- Horizontal separator -->
+  <line x1="55" y1="110" x2="145" y2="110" stroke="white" stroke-width="3"/>
+  
+  <!-- Minimal horse emblem (white circle) -->
+  <circle cx="100" cy="160" r="20" fill="white"/>
+  
+  <!-- Custom minimalist text in white -->
+  <text x="50%" y="220" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Custom Brand</text>
+</svg>

@@ -1,5 +1,5 @@
 const Highlights = () => {
-  return <div> </div>;
+  return <div> High </div>;
 };
 
 export default Highlights;
